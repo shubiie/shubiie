@@ -74,11 +74,11 @@ I love building scalable solutions, improving deployment efficiency, and ensurin
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdhanore&show_icons=true&theme=tokyonight" alt="Shubham Dhanore GitHub stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubiie&show_icons=true&theme=tokyonight" alt="Shubham Dhanore GitHub stats" height="180em" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdhanore&theme=tokyonight" alt="Shubham Dhanore GitHub streak" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubiie&theme=tokyonight" alt="Shubham Dhanore GitHub streak" height="180em" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdhanore&layout=compact&theme=tokyonight" alt="Shubham Dhanore Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubiie&layout=compact&theme=tokyonight" alt="Shubham Dhanore Top Languages" height="180em" />
 
 </div>
 
