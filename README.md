@@ -15,10 +15,10 @@ I love building scalable solutions, improving deployment efficiency, and ensurin
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/shubhamdhanore" target="_blank">
+  <a href="https://www.linkedin.com/in/shubiie" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://github.com/shubhamdhanore" target="_blank">
+  <a href="https://github.com/shubiie" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
@@ -71,15 +71,16 @@ I love building scalable solutions, improving deployment efficiency, and ensurin
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdhanore&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdhanore&theme=tokyonight" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdhanore&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdhanore&show_icons=true&theme=tokyonight" alt="Shubham Dhanore GitHub stats" height="180em" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdhanore&theme=tokyonight" alt="Shubham Dhanore GitHub streak" height="180em" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdhanore&layout=compact&theme=tokyonight" alt="Shubham Dhanore Top Languages" height="180em" />
+
+</div>
 
 ---
 
