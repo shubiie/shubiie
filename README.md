@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Dhanore</h1>
-<h3 align="center">A passionate Software Engineer specializing in Development and DevOps from India, with over 2 years of professional experience in building and deploying production-ready applications.</h3>
+<h3 align="center">A passionate Software Engineer specializing in Development and DevOps from India, with over 3 years of professional experience in building and deploying production-ready applications.</h3>
 
 - 📫 How to reach me **shubhamdd14@gmail.com**
 
