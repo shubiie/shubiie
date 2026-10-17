@@ -2,7 +2,7 @@
 <h3 align="center">🚀 DevOps Engineer | Kubernetes | Jenkins | AWS | CI/CD | Docker | Python</h3>
 
 <p align="center">
-I'm a passionate <b>Software Engineer</b> from India with 3+ years of experience in designing, automating, and optimizing <b>CI/CD pipelines</b>, <b>containerized deployments</b>, and <b>cloud-native infrastructure</b>.  
+I'm a passionate <b>Software Engineer</b> from India with 4+ years of experience in designing, automating, and optimizing <b>CI/CD pipelines</b>, <b>containerized deployments</b>, and <b>cloud-native infrastructure</b>.  
 I love building scalable solutions, improving deployment efficiency, and ensuring seamless production releases.
 </p>
 
