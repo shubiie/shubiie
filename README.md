@@ -1,76 +1,91 @@
-<h1 align="center">Hi 👋, I'm Shubham Dhanore</h1>
-<h3 align="center">🚀 DevOps Engineer | Kubernetes | Jenkins | AWS | CI/CD | Docker | Python</h3>
+# Hi 👋, I'm Shubham Dhanore
 
-<p align="center">
-I'm a passionate <b>Software Engineer</b> from India with 4+ years of experience in designing, automating, and optimizing <b>CI/CD pipelines</b>, <b>containerized deployments</b>, and <b>cloud-native infrastructure</b>.  
-I love building scalable solutions, improving deployment efficiency, and ensuring seamless production releases.
+### 🚀 DevOps Engineer | Platform Engineering | AWS | Kubernetes | CI/CD
+
+I'm a Software Engineer specializing in **DevOps and Platform Engineering**, with 4+ years of experience building scalable infrastructure, automating CI/CD pipelines, and improving cloud-native deployment workflows.
+
+- ☁️ Working with **AWS, Kubernetes, Docker, and Terraform**
+- ⚙️ Experienced in **CI/CD automation, Jenkins, GitLab CI, and GitHub Actions**
+- 🚀 Contributed to migrating production services from Docker Swarm to Kubernetes
+- 🛠️ Building developer platforms and automating infrastructure provisioning
+- 📈 Passionate about scalability, reliability, automation, and continuous improvement
+- 🌱 Continuously learning cloud-native technologies and GitOps practices
+
+---
+
+### 🧰 Tech Stack
+
+**Cloud & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform" alt="AWS and Terraform" />
+</p>
+
+**Containers & Orchestration**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" alt="Docker, Kubernetes and Helm" />
+</p>
+
+**CI/CD & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins,gitlab,githubactions,ansible" alt="Jenkins, GitLab, GitHub Actions and Ansible" />
+</p>
+
+**Programming & Scripting**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,linux" alt="Python, Bash and Linux" />
+</p>
+
+**Monitoring & Version Control**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github" alt="Prometheus, Grafana, Git and GitHub" />
 </p>
 
 ---
 
-### 📫 How to reach me
-**Email:** [shubhamdd14@gmail.com](mailto:shubhamdd14@gmail.com)
+### 💼 Professional Highlights
+
+- **Kubernetes Migration:** Contributed to migrating 10+ production services from Docker Swarm to Kubernetes, improving deployment frequency by approximately 40%.
+- **CI/CD Infrastructure:** Migrated GitLab shared runners to Kubernetes using Helm, improving pipeline scalability and reducing queue times.
+- **Platform Engineering:** Helped build and scale an internal developer platform supporting 1,200+ engineers.
+- **Infrastructure Automation:** Worked with Terraform and Helm to automate infrastructure provisioning and application deployments on AWS and Amazon EKS.
 
 ---
 
-### 🌐 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/shubiie" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubiie&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubham's GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubiie&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/shubiie">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/shubiie" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <a href="https://github.com/shubiie">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:shubhamdd14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/> 
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> 
-  </a> 
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-  </a>
-</p>
+### 💡 DevOps Mindset
 
-### 💡 Quote
-> “Automation is good, so long as you know exactly where to put the machine.” — *Eliyahu Goldratt*
+> "Automation is good, so long as you know exactly where to put the machine." — Eliyahu Goldratt
 
----
-
-⭐️ *Thanks for visiting my profile! Feel free to connect or check out my projects.* 🚀
+⭐ Thanks for visiting my profile! Feel free to connect with me or explore my repositories.
