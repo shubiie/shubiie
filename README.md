@@ -55,19 +55,6 @@ I'm a Software Engineer specializing in **DevOps and Platform Engineering**, wit
 - **Infrastructure Automation:** Worked with Terraform and Helm to automate infrastructure provisioning and application deployments on AWS and Amazon EKS.
 
 ---
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shubiie&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubham's GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubiie&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p>
